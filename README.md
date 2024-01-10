@@ -34,6 +34,4 @@ This project, developed for COMP 3004, is an Elevator Control System (ECS) desig
 ## Contributing
 Contributions to the Elevator System project are welcome. Please contact the team members to discuss potential improvements or features.
 
-## Acknowledgments
-Special thanks to each team member for their contributions and to the COMP 3004 course staff for their guidance.
 
